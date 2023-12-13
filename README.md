@@ -1,0 +1,1 @@
+Built a RAG system for evaluating an in-house data retrieval and content generation capabilities from already established GenAI models like BERTScore and GPT 4 and created a Knowledge Repository from Sentiments dataset
